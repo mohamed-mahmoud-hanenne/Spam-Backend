@@ -29,6 +29,7 @@ Ce backend expose une API REST consommée par l’interface Angular.
 git clone https://github.com/mohamed-mahmoud-hanenne/Spam-Backend.git
 
 cd backend
+
 python -m venv .venv
 
 # Windows
